@@ -10,3 +10,4 @@ Head over to [CONTRIBUTING.md](https://github.com/himanshubalani/first_contribut
 |---|---|---|
 | <img src="https://github.com/himanshubalani.png" width=50px> | Himanshu Balani |  https://github.com/himanshubalani
 | <img src="https://github.com/SwarnjeetSingh01.png" width=50px> | SwarnjeetSingh01 |  https://github.com/SwarnjeetSingh01
+New Changes
